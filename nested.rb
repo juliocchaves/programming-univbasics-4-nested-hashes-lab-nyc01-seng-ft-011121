@@ -17,7 +17,7 @@ def hopper
     }
 
 end
-:grace_hopper[:known_for][:languages]
+:grace_hopper = [:known_for][:languages]
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
